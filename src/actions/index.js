@@ -1,11 +1,11 @@
 export const incNumber=()=>{
     return{
-    typ:"INCREMENT"
+    type:"INCREMENT"
 }
 }
 
 export const decNumber=()=>{
     return{
-    typ:"DECREMENT"
+    type:"DECREMENT"
 }
 }
